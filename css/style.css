@@ -1,0 +1,181 @@
+body {
+  width: 100%;
+  overflow-x: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  background-color: whitesmoke;
+}
+a.nav-link:link {
+  padding: 0 15px !important;
+  font-size: 15px;
+}
+.cabecalho{
+margin: -35px;
+margin-left: 80px;
+}
+.cabecalho1{
+margin-top: -70px;
+margin-left: 400px;
+font-size: 15px;
+}
+.titulo{
+  overflow-x: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  color: gray;
+  margin: 80px;
+  margin-top: -10px;
+}
+.titulo1{
+overflow-x: hidden;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 50px;
+color: gray;
+margin: 80px;
+margin-top: 10px;
+}
+.cardC {
+  width: 76%;
+  height: 100%;
+  margin: 25px;
+  padding: 0px;
+  margin-top: -25px;
+  margin-left: -0rem;
+  margin-bottom: 50px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.card-title{
+  font-size: 25px;
+} 
+.btn.btn-primary {
+  width:95%;
+  height: 30px;
+  position: absolute; 
+  bottom: 0; 
+  left: 0; 
+  margin: 10px;
+}
+.card-img-top {
+  width: 100%;
+  height: auto; 
+}
+.card-scroller {
+  width: 100%;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.cardA {
+  display: inline-block;
+  width: 135px; /* largura do cartão */
+  height: auto; /* altura do cartão */
+  margin: 3px;
+  background-color: whitesmoke;
+  border:0px solid black;
+}
+.card-name{
+  margin-bottom: 1px;
+  text-align: center;
+  font-size: small;
+}
+.accordion{
+  margin: 8%;
+  margin-top: -10px;
+  overflow-x: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+.icone{
+  font-size: 30px;
+  
+}
+.diferenca{
+  color: black;
+}
+::-webkit-scrollbar {
+/* largura da barra de rolagem */
+width: 5px; 
+}
+
+/* Cor de fundo da barra de rolagem */
+::-webkit-scrollbar-track {
+background: whitesmoke;
+}
+
+/* Cor da barra de rolagem */
+::-webkit-scrollbar-thumb {
+background: black;
+border-radius: 10px;
+}
+
+/* Hover state da barra de rolagem */
+::-webkit-scrollbar-thumb:hover {
+background: gray;
+border-radius: 5px;
+}
+.carousel{
+width: auto;
+height: auto;
+margin: 5px;
+}
+.d-block{
+  width: 10px;
+  height: auto;
+}
+.fundo{
+background: url(/img/fundo/a238567db2a58965583429f7b98e3cc9.jpg);
+width: 1800px;
+height: auto;
+margin-left: -130px;
+}
+.a {
+  color: white; /* Cor padrão */
+}
+
+.a:hover {
+  color: gainsboro; /* Cor quando passa o mouse por cima */
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: gray; /* Cor quando passa o mouse por cima */
+  text-decoration: underline;
+}
+.horizontal{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.cardB{
+  margin-bottom: -120px;
+  width: 101%;
+  text-align: center;
+  padding: 0%;
+}
+nav{
+  margin-left: -100px;
+  height: auto;
+}
+.card-header{
+  background-color: whitesmoke;
+  margin: 0px;
+  width: auto;
+  height: 20px;
+}
+
+.rodape{
+  margin-top: -30px;
+  font-size: xx-small;
+}
+.rodape1{
+  margin-top: -8px;
+  font-size: small;
+}
+.drag{
+  width: 15px;
+  height: auto;
+}
